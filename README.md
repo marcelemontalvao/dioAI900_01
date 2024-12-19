@@ -1,4 +1,4 @@
-# Reconhecimento Facial e transformação de imagens em Dados no Azure ML
+# Laboratório _Reconhecimento Facial e transformação de imagens em Dados no Azure ML_
 
 ## Processo de Criação e Configuração
 
