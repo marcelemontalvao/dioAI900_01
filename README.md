@@ -21,6 +21,8 @@
 
 ![image](https://github.com/user-attachments/assets/84c673b0-7b25-4e9c-9c26-abbcfda3cdfb)
 
+![image](https://github.com/user-attachments/assets/6be500b1-bbd2-4adc-af38-17e4eb921a3b)
+
 ## Insights e Possibilidades
 
 *   **Detecção de Faces:**
